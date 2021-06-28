@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationXML>
+  <GuestRequestKey>108</GuestRequestKey>
+  <HostingUnitKey>10000000</HostingUnitKey>
+  <HostKey>10000002</HostKey>
+  <OrderKey>10000001</OrderKey>
+  <fee>10</fee>
+  <DayForRequest>60</DayForRequest>
+</configurationXML>

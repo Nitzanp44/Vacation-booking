@@ -1,0 +1,26 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\BL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\BL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\DAL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\DAL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\DS.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BL\bin\Debug\DS.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\BL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\BL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\DAL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\DS.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\BE.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\DAL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\bin\Debug\DS.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BL\obj\Debug\BL.pdb

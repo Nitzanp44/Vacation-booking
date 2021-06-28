@@ -1,0 +1,82 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DAL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\HostWindow.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\ManagWindow.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\UserWindow.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\App.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\HostWindow.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\ManagWindow.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\UserWindow.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\NumericUpDown.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\NumericUpDown.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DS.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DS.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\Converters.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\Converters.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowHosting.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowRequest.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowHosting.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowRequest.baml
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\newHost.g.cs
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\newHost.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\Converters.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\Converters.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\HostWindow.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowHosting.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowRequest.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\ManagWindow.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\newHost.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\NumericUpDown.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\UserWindow.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\HostWindow.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowHosting.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\hostWindowRequest.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\ManagWindow.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\newHost.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\NumericUpDown.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\UserWindow.baml
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb

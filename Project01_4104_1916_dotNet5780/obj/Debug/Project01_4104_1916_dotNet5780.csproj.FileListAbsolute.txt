@@ -1,0 +1,7 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\bin\Debug\Project01_4104_1916_dotNet5780.exe.config
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\bin\Debug\Project01_4104_1916_dotNet5780.exe
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\bin\Debug\Project01_4104_1916_dotNet5780.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\obj\Debug\Project01_4104_1916_dotNet5780.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\obj\Debug\Project01_4104_1916_dotNet5780.exe
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\obj\Debug\Project01_4104_1916_dotNet5780.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Project01_4104_1916_dotNet5780\obj\Debug\Project01_4104_1916_dotNet5780.csprojAssemblyReference.cache

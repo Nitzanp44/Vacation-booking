@@ -1,0 +1,65 @@
+﻿<Window x:Class="PLWPF.HostWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="HostWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Segoe UI Semibold"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsMouseOver" Value="True" />
+                    </MultiTrigger.Conditions>
+                    <MultiTrigger.Setters>
+                        <Setter Property="Background" Value="LightSteelBlue" />
+                    </MultiTrigger.Setters>
+                </MultiTrigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Segoe UI Semibold"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="Segoe UI Semibold"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image\background.jpg" Stretch="UniformToFill" Opacity="0.25"/>
+        </Grid.Background>
+        <Grid x:Name="Pass" Visibility="Visible">
+            <PasswordBox x:Name="Password" HorizontalAlignment="Left" Margin="280,184,0,0" VerticalAlignment="Top" Width="219" Height="48" KeyDown="Password_KeyDown"/>
+            <TextBlock HorizontalAlignment="Left" Margin="280,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="42" Width="219" TextAlignment="Right"><Run FlowDirection="RightToLeft" FontSize="20" Text="הכנס סיסמא"/>
+            </TextBlock>
+            <Button x:Name="back" HorizontalAlignment="Left" Margin="682,359,0,0" VerticalAlignment="Top" Width="75" Height="36" Click="back_Click"  ToolTip="חזור">
+                <Grid>
+                    <Image Source="image\back.png" Width="43" Height="25"/>
+                </Grid>
+            </Button>
+            <Button x:Name="newHost" Content="!מארח חדש? הירשם כאן" HorizontalAlignment="Left" Margin="280,248,0,0" VerticalAlignment="Top" Width="219" BorderBrush="White" Click="newHost_Click" FontSize="14" >
+                <Button.Background>
+                    <SolidColorBrush Color="#FFDDDDDD" Opacity="0"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid x:Name="gridHost" Visibility="Collapsed">
+            <Button x:Name="hostingButton" Content="יחידות האירוח שלי" HorizontalAlignment="Left" Margin="509,167,0,0" VerticalAlignment="Top" Width="185" Height="62" Click="hostingButton_Click"/>
+            <Button x:Name="requestButton" Content="דרישות לקוח והזמנות" HorizontalAlignment="Left" Margin="140,167,0,0" VerticalAlignment="Top" Width="185" Height="62" Click="requestButton_Click"/>
+            <Button x:Name="back1" HorizontalAlignment="Left" Margin="728,384,0,0" VerticalAlignment="Top" Width="43" Height="25" Click="back_Click"  ToolTip="חזור">
+                <Grid>
+                    <Image Source="image\back.png" Width="43" Height="25"/>
+                </Grid>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

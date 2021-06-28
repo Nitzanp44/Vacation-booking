@@ -1,0 +1,12 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\bin\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\bin\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\bin\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\bin\Debug\BE.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\BE\obj\Debug\BE.pdb

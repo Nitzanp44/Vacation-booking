@@ -1,0 +1,18 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csprojAssemblyReference.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\bin\Debug\Converters.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\bin\Debug\Converters.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\bin\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\bin\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csproj.CopyComplete
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\bin\Debug\Converters.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\bin\Debug\Converters.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\bin\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\bin\Debug\BE.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csproj.CoreCompileInputs.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.csproj.CopyComplete
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\Converters\obj\Debug\Converters.pdb

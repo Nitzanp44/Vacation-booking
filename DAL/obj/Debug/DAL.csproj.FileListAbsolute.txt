@@ -1,0 +1,22 @@
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DAL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DAL.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\BE.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DS.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\BE.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DS.pdb
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.dll
+Z:\שנה ב\מיני פרוייקט\הפרוייקט!\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\רעות באום\Downloads\פרוייקט סופי לבינתיים\Project01_4104_1916_dotNet5780\DAL\obj\Debug\DAL.pdb
