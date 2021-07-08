@@ -22,7 +22,7 @@ The manager can view the customers, hosts and their accommodation units, and ord
 
 The main window:
 
-<img width="589" alt="Screenshot 2021-07-08 114807" src="https://user-images.githubusercontent.com/85216945/124900898-2ae62800-dfea-11eb-9ecd-34c9da54b6d7.png">
+<img width="581" alt="Capture4" src="https://user-images.githubusercontent.com/85216945/124911770-d21c8c80-dff5-11eb-84c3-8ec08ddf3d8f.PNG">
 
 Login as a customer:
 
