@@ -1,4 +1,4 @@
-# Vacation-booking
+# :wedding: Vacation-booking 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -41,14 +41,11 @@ Login as a manager:
 Built a WPF, C#, acording to the three-tier architecture. 
 
 ## Installation
-host 
 Check that Visual Studio in installed. 
 
 ## How to use?
-
-The construction of the scene is done by choosing the shapes in the scene, their color, the material from which they are made.
-Position the camera and the different lighting in the desired places, 
-determine the distance of the camera from the scene and other parameters.
+Hosts passwords: 10,11
+Manager password: 1234
 
 ## Credits
 
