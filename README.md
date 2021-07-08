@@ -12,7 +12,7 @@
 </details>
 
 ## About The Project
-The Vacation booking system connects hosts and customers.
+The Vacation booking desktop application connects hosts and customers.
 A customer enter their  requests: number of guests, location, price, etc.
 If a host has an accommodation unit that complies with customer requests,
 he can offer the client to close a vacation with him.
