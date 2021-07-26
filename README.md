@@ -50,7 +50,7 @@ Manager password: 1234
 
 ## Credits
 
-This project was done with my classmate Nitzan Popovich. 
+This project was done with my classmate Reut Levenberg. 
 
 
 
